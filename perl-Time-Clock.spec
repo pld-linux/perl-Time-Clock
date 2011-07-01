@@ -9,14 +9,14 @@
 Summary:	Time::Clock - Twenty-four hour clock object with nanosecond precision.
 #Summary(pl.UTF-8):	
 Name:		perl-Time-Clock
-Version:	0.12
+Version:	1.02
 Release:	1
 # same as perl (REMOVE THIS LINE IF NOT TRUE)
 #License:	GPL v1+ or Artistic
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Time/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	472d62590121f4d6cf96da1ee2684ccc
+# Source0-md5:	6a5c938edd37f5e4da35454cec6eae3b
 # generic URL, check or change before uncommenting
 URL:		http://search.cpan.org/dist/Time-Clock/
 BuildRequires:	perl-devel >= 1:5.8.0
