@@ -3,7 +3,6 @@
 %bcond_without	autodeps	# don't BR packages needed only for resolving deps
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Time
 %define	pnam	Clock
 Summary:	Time::Clock - Twenty-four hour clock object with nanosecond precision.
